@@ -1,0 +1,42 @@
+{
+  "name": "Video Game Sales Theme",
+  "dataColors": [
+    "#00FFFF",
+    "#FF00FF",
+    "#00FF87",
+    "#FF6EC7",
+    "#1E90FF",
+    "#FFD700",
+    "#FF4500",
+    "#8A2BE2"
+  ],
+  "background": "#1c1c1c",
+  "foreground": "#ffffff",
+  "tableAccent": "#00FFFF",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "titleText": [
+          {
+            "color": {
+              "solid": {
+                "color": "#00FFFF"
+              }
+            },
+            "fontSize": 14,
+            "fontFamily": "Segoe UI Semibold"
+          }
+        ],
+        "labelText": [
+          {
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
